@@ -1,0 +1,13 @@
+# Results in evaluation/results.md were produced with Python 3.11 and:
+# pymupdf 1.28.2, sentence-transformers 6.1.0 (torch 2.14.1), numpy 2.4.6, scikit-learn 1.9.1
+# Web app: fastapi 0.143.0, uvicorn 0.54.0, jinja2 3.1.6, python-multipart
+pymupdf>=1.24
+sentence-transformers>=3.0
+numpy>=1.26
+scikit-learn>=1.4
+fastapi>=0.110
+uvicorn>=0.29
+jinja2>=3.1
+python-multipart>=0.0.9
+pytest>=8.0
+httpx>=0.27          # for the web app tests

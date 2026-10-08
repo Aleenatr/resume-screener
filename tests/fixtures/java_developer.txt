@@ -1,0 +1,3 @@
+Java Developer
+Built REST APIs with Java, Spring Boot and Hibernate.
+Wrote unit tests with JUnit and used Maven and Git.

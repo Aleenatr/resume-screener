@@ -1,0 +1,4 @@
+DevOps Engineer
+We are hiring a DevOps Engineer to automate build, deployment and infrastructure.
+Responsibilities: build and maintain CI/CD pipelines with Jenkins; containerise applications with Docker and orchestrate them with Kubernetes; manage cloud infrastructure on AWS (EC2, S3, VPC, IAM); automate configuration with Ansible and infrastructure with Terraform; monitor systems with Nagios, Prometheus or Grafana; manage Linux servers and Git repositories.
+Requirements: Linux and shell scripting; Jenkins, Docker, Kubernetes and Ansible; AWS; Git; Python or Bash scripting.

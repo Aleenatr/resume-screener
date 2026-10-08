@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Downloaded data and model caches (re-created by the scripts)
+data/
+.cache/
+
+# Output of the command-line tool
+results.json
+report.csv
+
+# macOS
+.DS_Store

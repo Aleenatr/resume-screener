@@ -1,0 +1,4 @@
+Data Scientist
+We are hiring a Data Scientist to build machine learning models that turn business data into decisions.
+Responsibilities: collect, clean and analyse large datasets; build and evaluate predictive models (regression, classification, clustering); apply NLP and deep learning where useful; present findings with clear visualisations; work with engineers to deploy models.
+Requirements: strong Python (pandas, NumPy, scikit-learn); statistics and probability; SQL; TensorFlow or PyTorch; data visualisation with Matplotlib, Tableau or Power BI; good communication skills.

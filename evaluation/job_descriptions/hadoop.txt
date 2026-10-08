@@ -1,0 +1,4 @@
+Hadoop / Big Data Developer
+We are hiring a Big Data Developer.
+Responsibilities: build data pipelines on the Hadoop ecosystem (HDFS, MapReduce, Hive, Pig, Sqoop, HBase and Oozie); process large datasets with Apache Spark using Scala or Python; ingest data from relational databases and streams with Sqoop, Flume and Kafka; optimise Hive queries and Spark jobs; work on Cloudera or Hortonworks clusters.
+Requirements: Hadoop, Hive and Spark; SQL; Java, Scala or Python; Linux; experience with large-scale data processing.

@@ -1,0 +1,4 @@
+ETL Developer
+We are hiring an ETL Developer for our data warehouse team.
+Responsibilities: design and develop ETL workflows with Informatica PowerCenter, SSIS or Talend; extract data from multiple sources, transform it and load it into the data warehouse; write complex SQL and PL/SQL; build star and snowflake schemas with fact and dimension tables; schedule and monitor jobs; tune ETL performance and fix data quality issues.
+Requirements: Informatica or SSIS; data warehousing concepts; Oracle, SQL Server or Teradata; Unix shell scripting.

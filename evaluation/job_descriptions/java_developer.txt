@@ -1,0 +1,4 @@
+Java Developer
+We are looking for a Java Developer to build backend applications.
+Responsibilities: design and develop web applications and REST APIs in Java; build services with Spring Boot, Spring MVC and Hibernate; write SQL and work with MySQL or Oracle; write unit tests with JUnit; use Git and Maven; take part in code reviews and Agile sprints.
+Requirements: Core Java, OOP, collections and multithreading; J2EE (Servlets, JSP); Spring framework and Hibernate/JPA; HTML and JavaScript; Eclipse or IntelliJ; 2+ years of experience.

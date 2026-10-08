@@ -1,0 +1,4 @@
+Network Security Engineer
+We are hiring a Network Security Engineer to protect our network.
+Responsibilities: configure and manage firewalls (Cisco ASA, Palo Alto, Fortinet), VPNs, IDS/IPS and proxies; manage routers and switches including routing, VLANs, OSPF and BGP; monitor security events and respond to incidents; perform vulnerability assessments and patching; maintain network documentation.
+Requirements: CCNA/CCNP Security or similar; TCP/IP and network protocols; firewall and VPN configuration; knowledge of security standards; Linux and Windows server basics.

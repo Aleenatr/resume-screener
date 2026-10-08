@@ -1,0 +1,4 @@
+Database Administrator
+We are hiring a Database Administrator (DBA).
+Responsibilities: install, configure and maintain SQL Server, Oracle and MySQL databases; manage backups, restores and disaster recovery; tune queries and indexes for performance; manage users, roles and security; set up replication and high availability; write stored procedures, triggers and SQL scripts; monitor database health.
+Requirements: strong SQL and PL/SQL or T-SQL; SQL Server or Oracle DBA experience; backup and recovery; performance tuning; Linux or Windows server administration.

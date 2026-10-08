@@ -1,0 +1,4 @@
+Business Analyst
+We are hiring a Business Analyst to bridge business teams and developers.
+Responsibilities: gather and document business requirements; write BRDs, FRDs, user stories and use cases; analyse processes and propose improvements; create process flow diagrams and wireframes; analyse data with SQL and Excel and build reports in Tableau or Power BI; support UAT and stakeholder communication in Agile projects.
+Requirements: strong analytical and communication skills; requirement elicitation; JIRA and Confluence; SQL; MS Excel and Visio.

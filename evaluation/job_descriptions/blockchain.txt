@@ -1,0 +1,4 @@
+Blockchain Developer
+We are hiring a Blockchain Developer.
+Responsibilities: design and develop smart contracts in Solidity on Ethereum; build decentralised applications (DApps) with Web3.js and Node.js; work with Hyperledger Fabric for enterprise blockchains; implement tokens, wallets and consensus mechanisms; test and audit contracts with Truffle; integrate blockchain with web front ends.
+Requirements: Solidity, Ethereum and Web3; JavaScript and Node.js; cryptography basics; understanding of distributed ledgers and consensus algorithms.

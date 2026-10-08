@@ -1,0 +1,4 @@
+DotNet Developer
+We are hiring a .NET Developer to build web applications.
+Responsibilities: develop web applications with C#, ASP.NET MVC and .NET Core; build Web APIs; write SQL Server queries and stored procedures and use Entity Framework or ADO.NET; build front ends with HTML, CSS, JavaScript, jQuery and Angular; use Visual Studio and Git or TFS.
+Requirements: C#, ASP.NET, MVC and .NET Core; SQL Server; OOP; LINQ; 2+ years of .NET development.

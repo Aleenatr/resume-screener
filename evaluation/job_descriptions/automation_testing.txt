@@ -1,0 +1,4 @@
+Automation Test Engineer
+We are hiring a QA Automation Engineer.
+Responsibilities: design and maintain automated test frameworks; write automated test scripts with Selenium WebDriver in Java or Python; use TestNG or JUnit and BDD with Cucumber; automate API testing with Postman or REST Assured; integrate tests with Jenkins CI; report and track defects in JIRA.
+Requirements: Selenium, TestNG and Maven; Page Object Model and data-driven frameworks; Core Java or Python; SQL; Agile testing experience.

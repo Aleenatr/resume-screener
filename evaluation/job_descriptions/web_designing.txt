@@ -1,0 +1,4 @@
+Web Designer
+We need a Web Designer to create attractive, responsive websites.
+Responsibilities: design website layouts and UI mock-ups; build pages with HTML5, CSS3 and JavaScript; make sites responsive across devices using Bootstrap; edit graphics in Photoshop; maintain WordPress sites; optimise pages for speed and SEO.
+Requirements: strong HTML, CSS, JavaScript and jQuery; Bootstrap; Adobe Photoshop and Illustrator; WordPress; an eye for design and a portfolio of websites.

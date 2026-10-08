@@ -1,0 +1,4 @@
+Backend Developer (Python)
+We're looking for a backend developer to build and maintain the REST APIs behind our hiring platform.
+You will: design REST APIs with Django or Flask; model data in PostgreSQL; write unit tests; containerise services with Docker and deploy them on AWS; review code and use Git every day.
+You have: strong Python and SQL; experience with Django or Flask; Docker; AWS basics; Git; a degree in computer science or equivalent experience.

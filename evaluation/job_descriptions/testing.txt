@@ -1,0 +1,4 @@
+Software Test Engineer (Manual)
+We are hiring a QA Engineer for manual testing.
+Responsibilities: understand requirements and write test plans, test scenarios and test cases; perform functional, regression, integration, system and user acceptance testing; log and track defects in JIRA or Bugzilla; follow the software testing life cycle and defect life cycle; prepare test reports and work with developers in Agile teams.
+Requirements: strong manual testing fundamentals (SDLC, STLC); test case design techniques; SQL for data checks; basic knowledge of Selenium is a plus; good attention to detail.
